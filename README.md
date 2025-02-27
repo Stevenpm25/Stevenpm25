@@ -3,7 +3,7 @@ Hello, how are you ? My name is Steven Peña and I am a 5th semester systems eng
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/StevenPeña) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/steven_pem) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@stevrnpea) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@pena2022mo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gspena51@ucatolica.edu.co) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/StevenPeña) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/steven_pem) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@stevrnpea) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/pena2022mo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gspena51@ucatolica.edu.co) 
 [![Spotify](https://novatoremusic.vercel.app/api/spotify)](https://open.spotify.com/user/3142iaqwi2ffcbfv4em3tnnksusm)
 
 
