@@ -14,6 +14,15 @@ Hello, how are you ? My name is Steven Peña and I am a 5th semester systems eng
 ![](https://nirzak-streak-stats.vercel.app/?user=Stevenpm25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenpm25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+##
+<div align="center">
+  <a href="https://open.spotify.com/user/3142iaqwi2ffcbfv4em3tnnksusm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d4eklaueeb3qpfn6ja3kqjyr54&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Stevenpm25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
